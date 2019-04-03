@@ -19,3 +19,4 @@ app to listen on a specific port.
 
 Full tutorial can be found at:
 https://hackernoon.com/restful-api-design-with-node-js-26ccf66eab09#.s5l66zyeu
+https://medium.freecodecamp.org/securing-node-js-restful-apis-with-json-web-tokens-9f811a92bb52
